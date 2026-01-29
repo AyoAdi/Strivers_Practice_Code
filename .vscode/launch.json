@@ -1,0 +1,413 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "set_zeroes_matrix",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.set_zeroes_matrix",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "set_matrix_zeroes",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.set_matrix_zeroes",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "rearranging_arr_with_alternating_pos_and_neg",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.rearranging_arr_with_alternating_pos_and_neg",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "best_time_to_buy_sell_stock",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.best_time_to_buy_sell_stock",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "maj_ele_opt",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.maj_ele_opt",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "maj_element_naive",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.maj_element_naive",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "sorting_0_1_2",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.sorting_0_1_2",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "two_sum",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.two_sum",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "max_len_with_sum",
+            "request": "launch",
+            "mainClass": "Arrays.Easy.max_len_with_sum",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "max_cons_ones",
+            "request": "launch",
+            "mainClass": "Arrays.Easy.max_cons_ones",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "missing_number",
+            "request": "launch",
+            "mainClass": "Arrays.Easy.missing_number",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "linear_search",
+            "request": "launch",
+            "mainClass": "Arrays.Easy.linear_search",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "move_zeroes_to_end",
+            "request": "launch",
+            "mainClass": "Arrays.Easy.move_zeroes_to_end",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "rotating_arr_by_n",
+            "request": "launch",
+            "mainClass": "Arrays.Easy.rotating_arr_by_n",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "second_larg_without_sort",
+            "request": "launch",
+            "mainClass": "Arrays.Easy.second_larg_without_sort",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "merge_sort",
+            "request": "launch",
+            "mainClass": "Sorting.merge_sort",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "alt_code",
+            "request": "launch",
+            "mainClass": "Sorting.alt_code",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "insertion_sort",
+            "request": "launch",
+            "mainClass": "Sorting.insertion_sort",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "bubble_sort",
+            "request": "launch",
+            "mainClass": "Sorting.bubble_sort",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "selection_sort",
+            "request": "launch",
+            "mainClass": "Sorting.selection_sort",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "freq_ele",
+            "request": "launch",
+            "mainClass": "Basic_Math.freq_ele",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "fibo_rec",
+            "request": "launch",
+            "mainClass": "Recursion.fibo_rec",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "reverse_array",
+            "request": "launch",
+            "mainClass": "Recursion.reverse_array",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "fact_n_nos",
+            "request": "launch",
+            "mainClass": "Recursion.fact_n_nos",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "sum_n_nos",
+            "request": "launch",
+            "mainClass": "Recursion.sum_n_nos",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "print_n_to_1",
+            "request": "launch",
+            "mainClass": "Recursion.print_n_to_1",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "print_1_to_n",
+            "request": "launch",
+            "mainClass": "Recursion.print_1_to_n",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "print_str_times",
+            "request": "launch",
+            "mainClass": "Recursion.print_str_times",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "print_n_times",
+            "request": "launch",
+            "mainClass": "Recursion.print_n_times",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "Basic_Math.prime",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "all_divs",
+            "request": "launch",
+            "mainClass": "Basic_Math.all_divs",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "armstrong_no",
+            "request": "launch",
+            "mainClass": "Basic_Math.armstrong_no",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "gcd_hcf",
+            "request": "launch",
+            "mainClass": "Basic_Math.gcd_hcf",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "count_symm_int",
+            "request": "launch",
+            "mainClass": "Basic_Math.count_symm_int",
+            "projectName": "DSA_b190ca59"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "Basic_Math.palindrome",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "count_digits",
+            "request": "launch",
+            "mainClass": "Basic_Math.count_digits",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "reverse_no",
+            "request": "launch",
+            "mainClass": "Basic_Math.reverse_no",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "reverse_letter_pyr",
+            "request": "launch",
+            "mainClass": "Java_Patterns.reverse_letter_pyr",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "rev_letter_pyramid",
+            "request": "launch",
+            "mainClass": "Java_Patterns.rev_letter_pyramid",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "rev_letter_triangle",
+            "request": "launch",
+            "mainClass": "Java_Patterns.rev_letter_triangle",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "letter_triangle",
+            "request": "launch",
+            "mainClass": "Java_Patterns.letter_triangle",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "number_pyramid",
+            "request": "launch",
+            "mainClass": "Java_Patterns.number_pyramid",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "number_triangle",
+            "request": "launch",
+            "mainClass": "Java_Patterns.number_triangle",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "empty_rect",
+            "request": "launch",
+            "mainClass": "Java_Patterns.empty_rect",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "rev_pajama",
+            "request": "launch",
+            "mainClass": "Java_Patterns.rev_pajama",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "binary_triangle",
+            "request": "launch",
+            "mainClass": "Java_Patterns.binary_triangle",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "right_polynomial",
+            "request": "launch",
+            "mainClass": "Java_Patterns.right_polynomial",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "polynomial",
+            "request": "launch",
+            "mainClass": "Java_Patterns.polynomial",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "full_rev_triangle",
+            "request": "launch",
+            "mainClass": "Java_Patterns.full_rev_triangle",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "full_triangle",
+            "request": "launch",
+            "mainClass": "Java_Patterns.full_triangle",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "rev_num_triangle",
+            "request": "launch",
+            "mainClass": "Java_Patterns.rev_num_triangle",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "squareMatrix",
+            "request": "launch",
+            "mainClass": "Java_Patterns.squareMatrix",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "square_matrix",
+            "request": "launch",
+            "mainClass": "Java_Patterns.square_matrix",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "right_triangle",
+            "request": "launch",
+            "mainClass": "Java_Patterns.right_triangle",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "reverse_right_triangle",
+            "request": "launch",
+            "mainClass": "Java_Patterns.reverse_right_triangle",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "repeated_num_triangle",
+            "request": "launch",
+            "mainClass": "repeated_num_triangle",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "TCS_pract_7b3c269c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
