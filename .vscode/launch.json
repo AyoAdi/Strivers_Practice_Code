@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "floor_and_ceil_best",
+            "request": "launch",
+            "mainClass": "BinarySearch.OneD.floor_and_ceil_best",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
+            "name": "floow_and_ceil_less_eff",
+            "request": "launch",
+            "mainClass": "BinarySearch.OneD.floow_and_ceil_less_eff",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
             "name": "find_first_and_last_ele",
             "request": "launch",
             "mainClass": "BinarySearch.OneD.find_first_and_last_ele",
