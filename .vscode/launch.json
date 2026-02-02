@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "search_rotated_sorted_arr",
+            "request": "launch",
+            "mainClass": "BinarySearch.OneD.search_rotated_sorted_arr",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
+            "name": "test_bs",
+            "request": "launch",
+            "mainClass": "BinarySearch.OneD.test_bs",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
             "name": "floor_and_ceil_best",
             "request": "launch",
             "mainClass": "BinarySearch.OneD.floor_and_ceil_best",
