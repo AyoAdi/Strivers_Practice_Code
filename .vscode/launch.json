@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "find_first_and_last_ele",
+            "request": "launch",
+            "mainClass": "BinarySearch.OneD.find_first_and_last_ele",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
             "name": "set_zeroes_matrix",
             "request": "launch",
             "mainClass": "Arrays.Medium.set_zeroes_matrix",
