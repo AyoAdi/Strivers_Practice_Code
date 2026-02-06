@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "peak_element",
+            "request": "launch",
+            "mainClass": "BinarySearch.OneD.peak_element",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
+            "name": "times_arr_is_rotated",
+            "request": "launch",
+            "mainClass": "BinarySearch.OneD.times_arr_is_rotated",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
+            "name": "count_occurences_in_dup_sorted_arr",
+            "request": "launch",
+            "mainClass": "BinarySearch.OneD.count_occurences_in_dup_sorted_arr",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
             "name": "opt_single_ele_in_sorted_arr",
             "request": "launch",
             "mainClass": "BinarySearch.OneD.opt_single_ele_in_sorted_arr",
