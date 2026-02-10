@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "koko_bananas",
+            "request": "launch",
+            "mainClass": "BinarySearch.Answers.koko_bananas",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
+            "name": "nth_root_of_m",
+            "request": "launch",
+            "mainClass": "BinarySearch.Answers.nth_root_of_m",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
+            "name": "sq_rt",
+            "request": "launch",
+            "mainClass": "BinarySearch.Answers.sq_rt",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
+            "name": "roman_to_int",
+            "request": "launch",
+            "mainClass": "Strings.medium.roman_to_int",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
             "name": "search_in_2d_matrix",
             "request": "launch",
             "mainClass": "BinarySearch.TwoD.search_in_2d_matrix",
