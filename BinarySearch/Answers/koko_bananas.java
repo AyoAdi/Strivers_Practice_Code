@@ -105,6 +105,5 @@ public class koko_bananas {
         kokoBananas kb = new kokoBananas();
         System.out.print(kb.getOutputOptimised(arr, h));
         //System.out.print(kb.getmaxVal(arr));
-
     }
 }

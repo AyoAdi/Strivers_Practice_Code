@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "rotate_str",
+            "request": "launch",
+            "mainClass": "Strings.Easy.rotate_str",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
+            "name": "isomorphic_strings",
+            "request": "launch",
+            "mainClass": "Strings.Easy.isomorphic_strings",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
+            "name": "largest_odd_no_in_str",
+            "request": "launch",
+            "mainClass": "Strings.Easy.largest_odd_no_in_str",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
+            "name": "reverse_words_in_sentence",
+            "request": "launch",
+            "mainClass": "Strings.Easy.reverse_words_in_sentence",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
+            "name": "valid_paranthesis",
+            "request": "launch",
+            "mainClass": "Strings.Easy.valid_paranthesis",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
             "name": "koko_bananas",
             "request": "launch",
             "mainClass": "BinarySearch.Answers.koko_bananas",
