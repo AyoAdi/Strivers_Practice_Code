@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reverse_words_in_given_str",
+            "request": "launch",
+            "mainClass": "Strings.medium.reverse_words_in_given_str",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
             "name": "rotate_str",
             "request": "launch",
             "mainClass": "Strings.Easy.rotate_str",
