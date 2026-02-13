@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "days_to_make_m_boquets",
+            "request": "launch",
+            "mainClass": "BinarySearch.Answers.days_to_make_m_boquets",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
             "name": "reverse_words_in_given_str",
             "request": "launch",
             "mainClass": "Strings.medium.reverse_words_in_given_str",
