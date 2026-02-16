@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "anagram",
+            "request": "launch",
+            "mainClass": "Strings.Easy.anagram",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
+            "name": "smallest_divisor_in_a_threshold",
+            "request": "launch",
+            "mainClass": "BinarySearch.Answers.smallest_divisor_in_a_threshold",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
             "name": "days_to_make_m_boquets",
             "request": "launch",
             "mainClass": "BinarySearch.Answers.days_to_make_m_boquets",
