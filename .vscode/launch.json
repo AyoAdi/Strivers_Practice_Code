@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "longest_common_prefix",
+            "request": "launch",
+            "mainClass": "Strings.Easy.longest_common_prefix",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
             "name": "anagram",
             "request": "launch",
             "mainClass": "Strings.Easy.anagram",
