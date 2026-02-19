@@ -1,7 +1,7 @@
 package Strings.Easy;
 
 class longestCommonPrefix{
-    String getPrefix(String[] arr){
+    String getPrefixx(String[] arr){
         if(arr.length == 0){
             return "";
         }
@@ -44,11 +44,9 @@ class longestCommonPrefix{
 
 public class longest_common_prefix {
     public static void main(String[] args) {
-        //String[] arr = {"flower", "flowing", "flight"};
-        String[] strs = {"dog","racecar","car"};
-
+        String[] arr = {"flower", "flowing", "flight"};
+        //String[] strs = {"dog","racecar","car"};
         longestCommonPrefix lcp = new longestCommonPrefix();
-        System.out.print(lcp.getPrefix(strs));
-
+        System.out.print(lcp.getPrefixx(arr));
     }
 }

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "kth_missing_pos_no",
+            "request": "launch",
+            "mainClass": "BinarySearch.Answers.kth_missing_pos_no",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
             "name": "longest_common_prefix",
             "request": "launch",
             "mainClass": "Strings.Easy.longest_common_prefix",
