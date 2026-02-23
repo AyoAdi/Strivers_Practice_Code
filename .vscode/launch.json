@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "cap_to_ship_n_packs",
+            "request": "launch",
+            "mainClass": "BinarySearch.Answers.cap_to_ship_n_packs",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
             "name": "kth_missing_pos_no",
             "request": "launch",
             "mainClass": "BinarySearch.Answers.kth_missing_pos_no",
