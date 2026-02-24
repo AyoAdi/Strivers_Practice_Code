@@ -52,7 +52,7 @@ class capToShipNPackages{
         }
         return -1;
     }
-
+    //Binary search
     int getMinWtEff(int[] arr, int days){
         if(arr.length == 0){
             return -1;

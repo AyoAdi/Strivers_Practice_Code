@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "middle_element",
+            "request": "launch",
+            "mainClass": "LinkedList.Medium_Prob_of_LL.middle_element",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
             "name": "cap_to_ship_n_packs",
             "request": "launch",
             "mainClass": "BinarySearch.Answers.cap_to_ship_n_packs",
