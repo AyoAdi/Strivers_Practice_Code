@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "median_of_two_sorted_arr",
+            "request": "launch",
+            "mainClass": "BinarySearch.Answers.median_of_two_sorted_arr",
+            "projectName": "DSA_291c34e0"
+        },
+        {
+            "type": "java",
             "name": "book_allocation",
             "request": "launch",
             "mainClass": "BinarySearch.Answers.book_allocation",
