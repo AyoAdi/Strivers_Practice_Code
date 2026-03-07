@@ -1,5 +1,6 @@
 package BinarySearch.Answers;
 
+//Also solution for split array max sum problem, thank you striver
 class bookAllocation{
     int getOutput(int[] books, int m){
         int maxVal = Integer.MIN_VALUE;
